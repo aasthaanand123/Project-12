@@ -47,5 +47,5 @@ I really enjoyed doing this project and I'm going to focus on projects that invo
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@aasthaanand123](https://www.frontendmentor.io/profile/aasthaanand123)
+- Twitter - [@Aastha92424004](https://www.twitter.com/@Aastha92424004)
